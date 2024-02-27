@@ -51,7 +51,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",Cine Romantico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/small.Nickelodeon_(2023).png.7fbc573710064530554b4742a98d5fbd.png" group-title="Movies",Rakuten Comedy Movies
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://imgur.com/sgmpp7b.png" group-title="Movies",Rakuten Comedy Movies
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-logo="https://imgur.com/sgmpp7b.png" group-title="Movies",Rakuten Drama
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
