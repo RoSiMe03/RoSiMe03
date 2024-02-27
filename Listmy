@@ -65,18 +65,12 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Sports 2
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Sports 3
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports 
-https://lnc-fox-sports2.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes",Fox Sports en Espanol (720p)
-https://lnc-fox-sports-espanol2.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Sports Mexico
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports Mexico
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxTV.in" tvg-logo="https://i.imgur.com/cvpDeYH.png" group-title="Deportes",Fox TV 
-http://stream-live.in:11037/hls/foxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports 3
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-logo="https://i.imgur.com/Ow0vROp.png" group-title="Televisa",Televisa Guadalajara
 https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
