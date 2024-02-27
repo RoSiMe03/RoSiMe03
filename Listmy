@@ -83,15 +83,5 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="TVP",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 
-EXTINF:-1,*Novedades en el Streaming*
-http://gluvu.atspace.cc/Novedades/news
-#EXTINF:-1,Peliculas
-http://gluvu.atspace.cc/Peliculas%20A
-#EXTINF:-1,Series
-http://gluvu.atspace.cc/Series
-#EXTINF:-1,Series de Anime
-http://gluvu.atspace.cc/Anime
-#EXTINF:-1,Novelas
-http://gluvu.atspace.cc/Novelas
-#EXTINF:-1,Doramas
+#EXTINF:-1 tvg-id="gluvu.atspace" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="Doramas",Doramas Streaming
 http://gluvu.atspace.cc/Doramas
