@@ -13,6 +13,15 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cable",Cine Sony 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports Mexico
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports 3
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Deportes",IMPACT Wrestling 
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
 #EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Entertainment",ViX Jajaja
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ViXParejas.mx" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Entertainment",ViX Parejas 
@@ -55,9 +64,6 @@ https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-logo="https://i.imgur.com/PfROac9.png" group-title="Musica",Telehit Música 
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Niños",Nickelodeon
-http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="News",Foro TV
@@ -68,14 +74,8 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports Mexico
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports 2
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports 3
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Deportes",IMPACT Wrestling 
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Niños",Nickelodeon
+http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-logo="https://i.imgur.com/Ow0vROp.png" group-title="Televisa",Televisa Guadalajara
 https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
