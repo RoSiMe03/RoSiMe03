@@ -43,8 +43,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cable",Golden Multiplex 
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:0 tvg-id="TelemundoEast.us" group-title="Cable",Telemundo
-http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/1080/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
