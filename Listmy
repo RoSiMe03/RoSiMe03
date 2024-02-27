@@ -50,6 +50,8 @@ https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="Movies",PlanetaTV Movie 
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Musica",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
