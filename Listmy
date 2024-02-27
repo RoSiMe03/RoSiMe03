@@ -59,8 +59,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cable",Golden Multiplex 
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cable",Golden TV (240p) 
-https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -69,10 +67,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 #EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-logo="https://i.imgur.com/zQiEsnH.png" group-title="Televisa",Televisa Monterrey
 https://ythls.armelin.one/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
-#EXTINF:-1 tvg-id="TelevisaNoreste.mx" tvg-logo="https://i.imgur.com/NzSN2jI.png" group-title="Televisa",Televisa Noreste
-https://ythls.armelin.one/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
-#EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="Televisa",Televisa Puebla
-https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 tvg-id="TelevisaSinaloa.mx" tvg-logo="https://i.imgur.com/nZ9HE94.png" group-title="Televisa",Televisa Sinaloa
 https://ythls.armelin.one/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
 #EXTINF:-1 tvg-id="TelevisaSonora.mx" tvg-logo="https://i.imgur.com/dlV2qX9.png" group-title="Televisa",Televisa Sonora
@@ -92,6 +86,3 @@ https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="TVP",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
-https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
