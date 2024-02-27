@@ -59,6 +59,12 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://imgur.com/sgmpp7b.png" group-title="Movies",Free TV Top Cine 
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Movies",CINEMA DINAMITA
+http://tvpremiumhd.club/lista-gratuita/212809/tv/live.php?id=2746
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA PLUS " tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Movies",CINEMA PLUS
+http://tvpremiumhd.club/lista-gratuita/212809/tv/live.php?id=2683
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://puu.sh/reQvi/55e4d2dd67.png" group-title="Movies",CINEMAX
+http://tvpremiumhd.club/lista-gratuita/212809/tv/live.php?id=2760
 
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Musica",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
