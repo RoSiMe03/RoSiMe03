@@ -34,8 +34,12 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="Musica",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LaVozGruperaTV.mx" tvg-logo="https://i.imgur.com/Ku1CEeb.png" group-title="Musica",La Voz Grupera TV (720p)
+#EXTINF:-1 tvg-id="LaVozGruperaTV.mx" tvg-logo="https://i.imgur.com/Ku1CEeb.png" group-title="Musica",La Voz Grupera TV 
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Musica",Telehit 
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-logo="https://i.imgur.com/PfROac9.png" group-title="Musica",Telehit Música 
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Cable",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
@@ -43,9 +47,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cable",Golden Multiplex 
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network Mexico
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-logo="https://i.imgur.com/Ow0vROp.png" group-title="Televisa",Televisa Guadalajara
 https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
@@ -72,6 +73,11 @@ https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="TVP",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Movies",De Película 
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="XXX Adultos", PlayboyX Tv
 http://live.redtraffic.xyz/latina.m3u8
