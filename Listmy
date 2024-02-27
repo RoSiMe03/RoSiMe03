@@ -46,7 +46,7 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="General",Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
-#EXTINF:-1 tvg-id="Vogue.us" tvg-logo="https://imgur.com/3AqyxA8" group-title="Lifestyle",Vogue 
+#EXTINF:-1 tvg-id="Vogue.us" tvg-logo="https://imgur.com/3AqyxA8.png" group-title="Lifestyle",Vogue 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",Cine Romantico
