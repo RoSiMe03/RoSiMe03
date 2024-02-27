@@ -99,3 +99,9 @@ http://premiumiptvmk.com:8080/05add9be/df28c0b5be/769
 http://live.baltazar.pro:80/eki154whats/yjCDBpe8BO/19962
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://od.lk/d/MV8zMDEwNzc5ODBf/HGTV.png" group-title="US - FILM & MOVIES",HGTV
 http://live.baltazar.pro:80/eki154whats/yjCDBpe8BO/19969
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="ANIMAL PLANET" tvg-logo="https://od.lk/d/MV8zMDEwNjczOThf/Animal%20planet.png" group-title="Nature",ANIMAL PLANET
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/6329
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="Sports",ESPN
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/747
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" group-title="Sports",ESPN 2
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/41918
