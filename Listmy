@@ -6,7 +6,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cable",Golden Multiplex 
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Cinecanal
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/jVSYtIp.png" group-title="Cable",Cinecanal
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Cable",De Película 
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
