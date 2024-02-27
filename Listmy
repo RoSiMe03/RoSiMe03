@@ -25,7 +25,7 @@ http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="AztecaSiete.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General", Azteca 7 
+#EXTINF:-1 tvg-id="AztecaSiete.mx" tvg-logo="https://https://www.pngwing.com/es/free-png-dtceh.png" group-title="General", Azteca 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas Latin America
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
