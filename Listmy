@@ -21,10 +21,6 @@ http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports 3
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Deportes",F0X Sports Premium
-http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Deportes",ESPN LatinoAmerica 
-http://181.209.173.10:9000/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Deportes",IMPACT Wrestling 
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
@@ -88,6 +84,8 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="News",TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Espanol
+http://181.78.24.67:8010/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Niños",Nickelodeon
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
