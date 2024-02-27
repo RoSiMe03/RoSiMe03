@@ -84,3 +84,18 @@ https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="TVP",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+
+#EXTINF:-1,US: tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://od.lk/d/MV8zMDEwNjQyNTRf/AE-logo.png" group-title="US - FILM & MOVIES",A&E
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2746
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48760908a7139ae4433e279250ad8f42.png" group-title="US - FILM & MOVIES",HBO
+http://iptvmedia.live:8080/F19591/d7d02309/45085
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US.FM - HBO 2" tvg-logo="http://images.mi.tv/channels/mx_hbo-2_m.png" group-title="US - FILM & MOVIES", HBO 2
+http://iptvmedia.live:8080/F19591/d7d02309/39236
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="https://od.lk/d/MV8zMDEwNjYzNjNf/download%20%281%29.png" group-title="US - FILM & MOVIES",TLC
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2362
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://od.lk/d/MV8zMDEwNjY0Njdf/TNT.png" group-title="US - FILM & MOVIES",TNT
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/769
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://od.lk/d/MV8zMDEwNjY0Njdf/TNT.png" group-title="US - FILM & MOVIES",TNT 2
+http://live.baltazar.pro:80/eki154whats/yjCDBpe8BO/19962
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://od.lk/d/MV8zMDEwNzc5ODBf/HGTV.png" group-title="US - FILM & MOVIES",HGTV
+http://live.baltazar.pro:80/eki154whats/yjCDBpe8BO/19969
