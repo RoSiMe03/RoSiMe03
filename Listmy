@@ -48,7 +48,7 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 #EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",Cine Romantico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://corp.rakuten.co.jp/about/assets/img/company/logo_tv_01.svg" group-title="Movies",Rakuten Comedy Movies
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Rakuten_TV_logo.svg" group-title="Movies",Rakuten Comedy Movies
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten Drama
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
