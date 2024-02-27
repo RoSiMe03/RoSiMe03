@@ -83,5 +83,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="TVP",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="gluvu.atspace" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="Doramas",Doramas Streaming
-http://gluvu.atspace.cc/Doramas
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/2902985.jpg",group-title="Movies",Un jefe en pañales 1
+http://archive.org/download/t0y2t0r7/UNJ3F3ENP1%C3%91.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Un_Jefe_en_Pañales_2_Poster.jpg",group-title="Movies",Un jefe en pañales 2
+http://archive.org/download/Peliculas-wii/Un%20Jefe%20en%20Pa%C3%B1ales%202%20-%20Negocios%20de%20Familia.mp4
