@@ -23,8 +23,6 @@ http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Deportes",IMPACT Wrestling 
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN Mexico
-http://190.61.102.67:2000/play/a08j/index.m3u8
 
 #EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Entertainment",ViX Jajaja
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
@@ -130,3 +128,86 @@ http://live.redtraffic.xyz/russian.m3u8
 https://videos.pornworms.com/media/videos/mp4/62329.mp4?st=dIOTFK3HoxSyd-LkmzwU0w&e=1563019356
 #EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="XXX Adultos", Redhead teen ass fuck
 https://videos.pornworms.com/media/videos/mp4/48969.mp4?st=yc2QZjXwJRqL5c9UPmsy2Q&e=1563020778
+
+#EXTINF:-1,WARNER TV ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/1024
+#EXTINF:-1,NICK JR ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/3429
+#EXTINF:-1,PARAMOUNT CHANNEL ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/3268
+#EXTINF:-1,HISTORY 2 ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/9783
+#EXTINF:-1,COMEDY CENTRAL ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/9767
+#EXTINF:-1,DISCOVERY THEATHER ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/13969
+#EXTINF:-1,E! ENTERTAIMENT ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/15302
+#EXTINF:-1,TV PERU NOTICIAS
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/15642
+#EXTINF:-1,CINEMAX ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/16903
+#EXTINF:-1,ANIMAL PLANET ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/16904
+#EXTINF:-1,DISNEY CHANNEL ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/16908
+#EXTINF:-1,HISTORY CHANNEL ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/16917
+#EXTINF:-1,SONY CHANNEL ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/16921
+#EXTINF:-1,AXN ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/1021
+#EXTINF:-1,DISCOVERY KIDS ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/757
+#EXTINF:-1,DISNEY JR ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/16909
+#EXTINF:-1,HBO | Dual Audio ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/16897
+#EXTINF:-1,TELESUR
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/27594
+#EXTINF:-1,LIFETIME
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/43547
+#EXTINF:-1,FX ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/3270
+#EXTINF:-1,CANAL 13 ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/16777
+#EXTINF:-1,CNN INT
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/53695
+#EXTINF:-1,DISCOVERY H&H ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/57255
+#EXTINF:-1,A&E ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/58123
+#EXTINF:-1,CNN EN ESPAÑOL ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/59075
+#EXTINF:-1,LA RED | CL ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/60563
+#EXTINF:-1,DISCOVERY WORLD ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/1639
+#EXTINF:-1,DISCOVERY ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/2826
+#EXTINF:-1,NAT GEO  ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/43549
+#EXTINF:-1,MTV ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/43548
+#EXTINF:-1,TELEMUNDO INT ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/24528
+#EXTINF:-1,TELEMUNDO INT
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/43573
+#EXTINF:-1,AVIVAMIENTO TV
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/77104
+#EXTINF:-1,MARIA VISION
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/77108
+#EXTINF:-1,HOSSANA VISION
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/115316
+#EXTINF:-1,UNIVERSAL ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/3271
+#EXTINF:-1,STUDIO UNIVERSAL ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/9780
+#EXTINF:-1,SPACE ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/16922
+#EXTINF:-1,TNT SERIES ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/16925
+#EXTINF:-1,TNT ᴴᴰ
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/25213
+#EXTINF:-1,LOGOS TV
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/77064
