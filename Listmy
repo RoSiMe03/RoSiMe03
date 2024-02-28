@@ -59,11 +59,6 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://imgur.com/sgmpp7b.png" group-title="Movies",Free TV Top Cine 
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1, group-title="Movies", HBO2 dual (eng esp) 
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="Movies", Fox Cinema 
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
 
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Musica",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -131,3 +126,21 @@ http://live.redtraffic.xyz/russian.m3u8
 https://videos.pornworms.com/media/videos/mp4/62329.mp4?st=dIOTFK3HoxSyd-LkmzwU0w&e=1563019356
 #EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="XXX Adultos", Redhead teen ass fuck
 https://videos.pornworms.com/media/videos/mp4/48969.mp4?st=yc2QZjXwJRqL5c9UPmsy2Q&e=1563020778
+
+#EXTINF:-1,CARTOON NETWORK www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1,MAXPRIME www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
+#EXTINF:-1,UNIVERSALCH www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+
+#EXTINF:-1, fox premium comedy (eng) www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+
+#EXTINF:-1, ESPN 2 www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1, Animal Planet www.achoapps.com
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
