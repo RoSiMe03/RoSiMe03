@@ -302,37 +302,37 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53472
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53473
 #EXTINF:-1,EL GOURMET
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53474
-#EXTINF:-1,HISTORY HD
+#EXTINF:-1,group-title="Cable", HISTORY HD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53481
-#EXTINF:-1,HISTORY SD
+#EXTINF:-1,group-title="Cable", HISTORY SD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53482
-#EXTINF:-1,History 2 HD
+#EXTINF:-1,group-title="Cable", History 2 HD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53483
-#EXTINF:-1,History 2 SD
+#EXTINF:-1,group-title="Cable", History 2 SD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53488
-#EXTINF:-1,NATIONAL Geographic FHD
+#EXTINF:-1,group-title="Cable", National Geographic FHD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53489
-#EXTINF:-1,NAT Geo HD
+#EXTINF:-1,group-title="Cable", NAT Geo HD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53491
-#EXTINF:-1,NATGEO WILD FHD
+#EXTINF:-1,group-title="Cable", NATGEO WILD FHD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53492
-#EXTINF:-1,US: CARTOON NETWORK 
+#EXTINF:-1,group-title="Cable", CARTOON NETWORK 
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53516
-#EXTINF:-1,US: **DISNEY CHANNEL 2**
+#EXTINF:-1,group-title="Cable", DISNEY CHANNEL 2
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53518
-#EXTINF:-1,US: **DISNEY CHANNEL 1**
+#EXTINF:-1,group-title="Cable", DISNEY CHANNEL 1
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53519
-#EXTINF:-1,US: **DISNEY JR**
+#EXTINF:-1,group-title="Cable", DISNEY JR
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53520
-#EXTINF:-1,US: **DISNEY XD**
+#EXTINF:-1,group-title="Cable", DISNEY XD**
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53522
-#EXTINF:-1,US: NICK JR FHD
+#EXTINF:-1,group-title="Cable", NICK JR FHD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53524
-#EXTINF:-1,US: NICKELODEON EAST
+#EXTINF:-1,group-title="Cable", NICKELODEON EAST
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53525
-#EXTINF:-1,US: NICKTOONS
+#EXTINF:-1,group-title="Cable", NICKTOONS
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53528
-#EXTINF:-1,US: NICK MUSIC
+#EXTINF:-1,group-title="Cable", NICK MUSIC
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53529
 #EXTINF:-1,US: TEENNICK
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53530
@@ -348,7 +348,7 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53534
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53536
 #EXTINF:-1,US: ACTIONMAX
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53537
-#EXTINF:-1,US: CINEMAX EAST
+#EXTINF:-1,group-title="Cable", CINEMAX EAST
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53538
 #EXTINF:-1,US: CINEMAX WEST
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53539
@@ -364,19 +364,19 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53543
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53544
 #EXTINF:-1,US: EPIX HITS
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53546
-#EXTINF:-1,US: HBO EAST
+#EXTINF:-1,group-title="Cable", HBO EAST
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53547
-#EXTINF:-1,US: HBO 2
+#EXTINF:-1,group-title="Cable", HBO 2
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53548
-#EXTINF:-1,US: HBO COMEDY
+#EXTINF:-1,group-title="Cable", HBO COMEDY
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53549
-#EXTINF:-1,US: HBO FAMILY
+#EXTINF:-1,group-title="Cable", HBO FAMILY
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53550
-#EXTINF:-1,US: HBO SIGNATURE
+#EXTINF:-1,group-title="Cable", HBO SIGNATURE
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53551
-#EXTINF:-1,US: HBO WEST
+#EXTINF:-1,group-title="Cable", HBO WEST
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53553
-#EXTINF:-1,US: HBO ZONE
+#EXTINF:-1,group-title="Cable", HBO ZONE
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53554
 #EXTINF:-1,US: MOVIE PLEX
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/53556
