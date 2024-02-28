@@ -8,12 +8,12 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cable",Cine Sony 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cable",Golden Multiplex 
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Cable",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Cable",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Cable",Golden Multiplex 
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Cable",Unicable 
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
@@ -63,10 +63,6 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://imgur.com/sgmpp7b.png" group-title="Movies",Free TV Top Cine 
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="Movies",Filmex 
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Movies",Filmex Clásico 
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Musica",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -135,4 +131,6 @@ https://videos.pornworms.com/media/videos/mp4/62329.mp4?st=dIOTFK3HoxSyd-LkmzwU0
 #EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="XXX Adultos", Redhead teen ass fuck
 https://videos.pornworms.com/media/videos/mp4/48969.mp4?st=yc2QZjXwJRqL5c9UPmsy2Q&e=1563020778
 
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV (240p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 
