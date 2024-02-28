@@ -159,17 +159,17 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/414
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/419
 #EXTINF:-1,group-title="Cable", TELEMUNDO MIAMI  SD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/420
-#EXTINF:-1,LAT | ₮ⓝ₮ SPORTS  SD
+#EXTINF:-1,group-title="Deportes", ₮ⓝ₮ SPORTS  SD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/1379
-#EXTINF:-1,LAT | TºYºC SP0RTS  INTERNACIONAL HD
+#EXTINF:-1,group-title="Deportes", TYC SP0RTS  INTERNACIONAL HD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/1380
-#EXTINF:-1,LAT | °TYC° SPORTS  HD 
+#EXTINF:-1,group-title="Deportes", TYC SPORTS  HD 
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/1382
-#EXTINF:-1,MX | F0X $PORTS. *PREMIUM FHD
+#EXTINF:-1,group-title="Deportes", F0X $PORTS. *PREMIUM FHD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/11570
-#EXTINF:-1,LAT | F0X SPORTS PREMIUM  HD
+#EXTINF:-1,group-title="Deportes", F0X SPORTS PREMIUM  HD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/11571
-#EXTINF:-1,LAT | F0X $PORTS *PREMIUM SD
+#EXTINF:-1,group-title="Deportes", F0X $PORTS *PREMIUM SD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/11572
 #EXTINF:-1,ES | M0VISTAR SERIES HD.
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/13432
@@ -191,31 +191,7 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/13442
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/13444
 #EXTINF:-1,ES | M0VISTAR SERIESMANIA HD.
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/13447
-#EXTINF:-1,ES | *EUR0*SPORTS 2 HD.
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/17187
-#EXTINF:-1,ES | BN Ñ HD.
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/17198
-#EXTINF:-1,Better Life TV - Español (US)
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/19806
-#EXTINF:-1,CDM (PR)
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/19809
-#EXTINF:-1,Logos TV (ES) (Opt-2)
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/19818
-#EXTINF:-1,Red ADVenir (BO)
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/19823
-#EXTINF:-1,Solidaria TV (ES)
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/19826
-#EXTINF:-1,Sophia TV (DE)
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/19827
-#EXTINF:-1,Better Life TV - Español (US)
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/19829
-#EXTINF:-1,CBN Español (US)
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/19831
-#EXTINF:-1,FOX: CA SACRAMENTO KTXL
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/20315
-#EXTINF:-1,US: MY9 - WWOR
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/20504
-#EXTINF:-1,US: ESPⓝ HD
+#EXTINF:-1,USA : ESPⓝ HD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/20635
 #EXTINF:-1,USA : E$PN 2
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/20636
