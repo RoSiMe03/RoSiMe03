@@ -14,6 +14,14 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Cable",Unicable 
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+#EXTINF:-1,group-title="Cable", A&E HD.
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/5
+#EXTINF:-1,group-title="Cable", A&E SD
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/6
+#EXTINF:-1,group-title="Cable", CINEMAX FHD
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/7
+#EXTINF:-1,group-title="Cable", CINEMAX HD
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Deportes",Fox Sports Mexico
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
@@ -128,17 +136,6 @@ https://videos.pornworms.com/media/videos/mp4/62329.mp4?st=dIOTFK3HoxSyd-LkmzwU0
 #EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="XXX Adultos", Redhead teen ass fuck
 https://videos.pornworms.com/media/videos/mp4/48969.mp4?st=yc2QZjXwJRqL5c9UPmsy2Q&e=1563020778
 
-#EXTM3U
-#EXTINF:-1,group-title="Cine", A&E HD.
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/5
-#EXTINF:-1,group-title="Cine", A&E SD
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/6
-#EXTINF:-1,group-title="Cine", CINEMAX  FHD
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/7
-#EXTINF:-1,group-title="Cine", CINEMAX HD
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/8
-#EXTINF:-1,group-title="Cine", CINEMAX  SD
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/9
 #EXTINF:-1,*BL 1*
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/66
 #EXTINF:-1,*BL 2*
