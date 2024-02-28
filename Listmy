@@ -384,5 +384,7 @@ http://likea8bitboss.xyz:80/27378097/97629514/85887
 http://likea8bitboss.xyz:80/27378097/97629514/85888
 #EXTINF:-1 tvg-id="US: DISNEY JR EAST" tvg-name="US: DISNEY JR - East" tvg-logo="https://static.wikia.nocookie.net/disneyjuniorpedia/images/a/a8/Disney-Junior-Logo-disney-junior-27558537-2560-1920.jpg" group-title="USA | KIDS",US: DISNEY JR - East
 http://likea8bitboss.xyz:80/27378097/97629514/85889
-#EXTINF:-1 tvg-id="US: DISNEY XD EAST" tvg-name="US: DISNEY XD EAST" tvg-logo="https://static.wikia.nocookie.net/regularcapital-audiovisual-research/images/9/93/Disney_XD_Logo.jpg" group-title="USA | KIDS",US: DISNEY XD EAST
-http://likea8bitboss.xyz:80/27378097/97629514/85891
+#EXTINF:-1 tvg-id="" tvg-name="USL: GALAVISION MIAMI" tvg-logo="" group-title="TELEMUNDO / UNIMAS",USL: GALAVISION MIAMI
+http://likea8bitboss.xyz:80/27378097/97629514/760596
+#EXTINF:-1 tvg-id="" tvg-name="USL: GALAVISION LOS ANGELES" tvg-logo="" group-title="TELEMUNDO / UNIMAS",USL: GALAVISION LOS ANGELES
+http://likea8bitboss.xyz:80/27378097/97629514/760597
