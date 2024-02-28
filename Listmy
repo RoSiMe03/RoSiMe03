@@ -101,8 +101,6 @@ https://ythls.armelin.one/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://i.imgur.com/iuaYGK2.png" group-title="Televisa",TVP Culiacan
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-logo="https://i.imgur.com/b6rNKeU.png" group-title="Televisa",TVP Los Mochis
-https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="Televisa",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 
@@ -129,16 +127,3 @@ http://live.redtraffic.xyz/russian.m3u8
 https://videos.pornworms.com/media/videos/mp4/62329.mp4?st=dIOTFK3HoxSyd-LkmzwU0w&e=1563019356
 #EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="XXX Adultos", Redhead teen ass fuck
 https://videos.pornworms.com/media/videos/mp4/48969.mp4?st=yc2QZjXwJRqL5c9UPmsy2Q&e=1563020778
-
-#EXTINF:-1,FOX
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/635px-Logo_Golden_TV.svg.png" group-title="IZZI",Golden
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="IZZI",NICK
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https" group-title="DEPORTES",ESPN
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/242bo6v.jpg" group-title="DEPORTES", ESPN2 HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/e12l42.jpg" group-title="DEPORTES", ESPN 3
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
